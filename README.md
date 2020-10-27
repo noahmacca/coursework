@@ -1,5 +1,5 @@
 # coursework
-For code associated with various coursework.
+For code associated with various coursework. Generally in the format of jupyter notebooks and markdown files.
 
 ## Coursera
 I'm currently working on the [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) on Coursera. This is broken up into four courses:
